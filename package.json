@@ -1,7 +1,7 @@
 {
   "name": "express-svg-captcha",
   "version": "1.0.0",
-  "description": "An Express middleware for svg-captcha",
+  "description": "Express middleware for svg-captcha",
   "main": "index.js",
   "dependencies": {
     "svg-captcha": "^1.3.12"
@@ -9,6 +9,10 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmd430/express-svg-captcha"
   },
   "keywords": [
     "captcha",
@@ -22,5 +26,8 @@
     "express"
   ],
   "author": "cmd430",
-  "license": "ISC"
+  "license": "ISC",
+  "files": [
+    "index.js"
+  ]
 }

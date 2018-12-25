@@ -18,7 +18,7 @@ const captcha = new expressCaptcha({
                           // (is set to true if background is set)
   background: null,       // HEX or RGB(a) value for background set to null for transparent
   width: 150,             // width of captcha
-	height: 50,             // height of captcha
+  height: 50,             // height of captcha
   fontSize: 56,           // font size for captcha
   charPreset: null,       // string of characters for use with string captcha set to null for default aA-zZ
 })
