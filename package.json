@@ -1,6 +1,6 @@
 {
   "name": "express-svg-captcha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express middleware for svg-captcha",
   "main": "index.js",
   "dependencies": {
